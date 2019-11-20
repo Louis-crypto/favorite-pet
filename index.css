@@ -1,0 +1,15 @@
+h1{
+  color: white;
+  background-color: black;
+}
+p{
+  font-size: 24px;
+  font-family: sans-serif;
+}
+li{
+  font-style: italic;
+}
+ol{
+  line-height: 40px;
+  font-size: 20px;
+}
